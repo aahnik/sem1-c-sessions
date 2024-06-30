@@ -1,2 +1,4 @@
-# live
-The code that I write during various live sessions or streams.
+# sem1-cp-sessions
+
+The code that I wrote during the live stream of solution of Programming Assignments (of Computer Programming in C course) during my sem1 of Btech.
+
